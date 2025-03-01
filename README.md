@@ -1,7 +1,7 @@
 # Previsao-do-Tempo
 
 ![previsão do tempo](https://github.com/user-attachments/assets/751df387-375d-4df1-a48f-8596884cf3da)
-ets/68d46d62-742d-405f-945b-fc4077c5f4ab)
+
 
 # Projeto de previsão do tempo 
 ## A temperatura do tempo indica o quão quente ou frio está o ambiente em um determinado momento e local. 
